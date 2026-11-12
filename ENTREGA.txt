@@ -1,0 +1,9 @@
+Projeto: Moving Health
+Disciplina: C# Software Development - Global Solution 2026.2
+
+Integrantes:
+RM559483 - Matheus Ikeda
+RM560723 - Davis Júnior
+RM560340 - Matheus Caposse
+
+Link do repositório: [PREENCHER: link do GitHub]
