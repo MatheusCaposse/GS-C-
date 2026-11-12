@@ -13,7 +13,6 @@ Global Solution 2026.2 · FIAP · CitizenTech · C# Software Development
 | **Problema, em uma frase** | Em postos de saúde, idosos e PcD esperam em pé em filas desorganizadas, sem que a prioridade seja controlada. |
 | **Como funciona** | Um terminal desktop (Windows Forms) cadastra o paciente, calcula a prioridade, gera uma senha e chama sempre o próximo da fila correta. |
 | **O que cada parte faz** | Esta parte (C#): terminal de atendimento da recepção. As demais disciplinas compõem a mesma CitizenTech. |
-| **Link do repositório** | [PREENCHER: link do GitHub] |
 | **Indicador de impacto** | Tempo médio de espera (em minutos) dos pacientes atendidos, exibido na tela. |
 | **ODS conectados** | 3, 10 e 11 (detalhes abaixo) |
 
@@ -85,17 +84,3 @@ Nenhum dado pessoal real é usado. Todos os nomes usados em testes são simulado
 
 O projeto segue o [versionamento semântico](https://semver.org/lang/pt-BR/) (`MAJOR.MINOR.PATCH`). As mudanças ficam registradas no [CHANGELOG.md](CHANGELOG.md). Fluxo usado:
 
-```bash
-git checkout -b feature/fila-prioritaria
-git add .
-git commit -m "feat: terminal de fila prioritária Moving Health"
-git push -u origin feature/fila-prioritaria
-# abrir o Pull Request para a main no GitHub e fazer o merge
-git checkout main && git pull
-git tag v1.0.0
-git push origin v1.0.0
-```
-
-## Uso de IA
-
-A IA foi usada como copiloto. Os prompts estão registrados em [prompts.md](prompts.md).
