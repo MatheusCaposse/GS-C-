@@ -8,7 +8,7 @@ Global Solution 2026.2 · FIAP · CitizenTech · C# Software Development
 |---|---|
 | **Nome da CitizenTech** | Moving Health |
 | **Equipe** | Equipe Moving Health |
-| **Cidade e bairro** | [PREENCHER: cidade e bairro da UBS observada] |
+| **Cidade e bairro** | [Paulista] |
 | **Cidadão beneficiado** | Idosos e pessoas com deficiência (PcD) atendidos em uma UBS. Pessoa real: [PREENCHER: quem foi entrevistado, sem dados pessoais reais] |
 | **Problema, em uma frase** | Em postos de saúde, idosos e PcD esperam em pé em filas desorganizadas, sem que a prioridade seja controlada. |
 | **Como funciona** | Um terminal desktop (Windows Forms) cadastra o paciente, calcula a prioridade, gera uma senha e chama sempre o próximo da fila correta. |
@@ -59,7 +59,7 @@ A fila é ordenada por prioridade e, dentro da mesma prioridade, por ordem de ch
 Requisitos: Windows e o [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0).
 
 ```bash
-git clone [PREENCHER: link do repositório]
+git clone [https://github.com/MatheusCaposse/GS-C-]
 cd MovingHealth-GS
 dotnet run --project MovingHealth
 ```
