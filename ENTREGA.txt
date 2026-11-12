@@ -6,4 +6,4 @@ RM559483 - Matheus Ikeda
 RM560723 - Davis Júnior
 RM560340 - Matheus Caposse
 
-Link do repositório: [https://github.com/MatheusCaposse/GS-C-.git]
+Link do repositório: https://github.com/MatheusCaposse/GS-C-.git
